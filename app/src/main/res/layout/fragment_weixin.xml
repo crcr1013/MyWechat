@@ -6,12 +6,9 @@
     tools:context=".weixinFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:id="@+id/title_weixin"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/RecyclerView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:text="这是微信聊天界面！"
-        android:textSize="30sp" />
+        android:layout_height="match_parent" />
 
 </LinearLayout>
