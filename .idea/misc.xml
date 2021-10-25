@@ -4,14 +4,21 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20625" />
+        <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/drawable/listen.xml" value="0.20052083333333334" />
+        <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/activity_fcircle.xml" value="0.18072916666666666" />
+        <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/activity_find.xml" value="0.18020833333333333" />
+        <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/activity_listen.xml" value="0.184375" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/bottom.xml" value="0.264" />
+        <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/fcircle.xml" value="0.264" />
+        <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/find.xml" value="0.4" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/fragment_find.xml" value="0.20471014492753623" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/fragment_friends.xml" value="0.1296875" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/fragment_shezhi.xml" value="0.1296875" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/fragment_tongxunlu.xml" value="0.1296875" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/fragment_weixin.xml" value="0.25364583333333335" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/item.xml" value="0.4" />
+        <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/listen.xml" value="0.264" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/top.xml" value="0.25364583333333335" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/top1.xml" value="0.25364583333333335" />
         <entry key="..\:/AS class/Android Projects/WechatDemo/app/src/main/res/layout/top2.xml" value="0.25364583333333335" />

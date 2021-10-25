@@ -19,7 +19,6 @@ public class weixinFragment extends Fragment implements IMoveAndSwipeCallback{
     private RecyclerView recyclerView;//声明RecyclerView
     private weixinAdapter weixinAdapter;
     private Context context;
-    private ImageView imageView;
     ArrayList<IdCard> list=new ArrayList<>();
 
     public weixinFragment() {
@@ -42,7 +41,7 @@ public class weixinFragment extends Fragment implements IMoveAndSwipeCallback{
         recyclerView.setLayoutManager(manager);
         recyclerView.setAdapter(weixinAdapter);
         //给recyclerView设置水平分割线
-        recyclerView.addItemDecoration(new DividerItemDecoration(getActivity(),DividerItemDecoration.BOTH_SET,5,255));
+        recyclerView.addItemDecoration(new DividerItemDecoration(getActivity(),DividerItemDecoration.BOTH_SET,5,0xCCCCCCFF));
         //给recyclerView设置ItemTouchHelper
         ItemTouchHelperCallback itemTouchHelperCallback = new ItemTouchHelperCallback();
         itemTouchHelperCallback.setiMoveAndSwipeCallback(this);

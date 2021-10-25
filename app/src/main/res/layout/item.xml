@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:layout_weight="1"
-        android:background="#ccccff"
+        android:background="@color/white"
         android:orientation="horizontal">
 
         <ImageView

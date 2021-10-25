@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WechatDemo">
         <activity
+            android:name=".FindActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FcircleActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ListenActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
